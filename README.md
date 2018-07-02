@@ -8,5 +8,3 @@ Description:
 2. MonoGame software is used to build the game loop.
 3. Uses NUnit to test the game logic.
 4. Features show the next shape, pause the game, save high score to the file, and show the "ghost" shape functionalities.
-
-<sub>Academic Project - Dawson College (Computer Science Technology) - Winter 2016</sub>
